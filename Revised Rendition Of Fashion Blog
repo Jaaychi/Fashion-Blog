@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Everyday with Isa</title>
-  <link href="style_1.css">
+  <link href="style_1.css" type="text/css" rel="stylesheet">
 </head>
 <body>
   <a href="#contact"><img src="https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg"/></a>
