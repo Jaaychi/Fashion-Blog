@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fashion Blog</title>
+  <link href="style_1.css">
+</head>
+<body>
+  <div>
+    <a href="https://google.com">Fashion Week</a>
+    <a href="https://google.com">Contact Me</a>
+    <a href="https://google.com">About Me</a>
+  </div>
+  <div id='introduction'>
+    <h1>New York Fashion Week</h1>
+    <p>First and foremost, I would love to thank everyone including my parents for making this happen! This is a blessing in disguise. I will now rank the top 3 dressers this week at New York Fashion Week!</p>
+  </div>
+  <div id="first">
+    <h4>#1 dresser goes to:<h4>
+        <ul>
+          <li><img src="image_1.jpg" width="240" height="120"/></li>
+          <li><img src="image_2.jpg" width="240" height="120"/></li>
+          <li><img src="image_3.jpg" width="240" height="120"/></li>
+          </ul>
+  </div>
+
+  <div id="second">
+    <h4>#2 dresser goes to:<h4>
+        <ul>
+          <li><img src="image_1.jpg" width="240" height="120"/></li>
+          <li><img src="image_2.jpg" width="240" height="120"/></li>
+          <li><img src="image_3.jpg" width="240" height="120"/></li>
+          </ul>
+  </div>
+
+  <div id="third">
+    <h4>#3 dresser goes to:<h4>
+        <ul>
+          <li><img src="image_1.jpg" width="240" height="120"/></li>
+          <li><img src="image_2.jpg" width="240" height="120"/></li>
+          <li><img src="image_3.jpg" width="240" height="120"/></li>
+          </ul>
+  </div>
+
+  <br>
+  <br>
+  <div>
+    <p><strong>Email:</strong> <em>isa@gmail.com</em> | <strong>Name:</strong> <em>Isa</em> | <strong>Contact Info:</strong> <em>415-888-0066</em></p>
+  </div>
+</body>
+
+
+<script>
+  function random(x) {
+   return x
+  }
+</script>
+</html>
